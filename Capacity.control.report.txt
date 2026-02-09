@@ -1,0 +1,572 @@
+CAPACITY CONTROL REPORT (IfcColumn, storey match: 'ES_Stue')
+Ned = 882.78 kN | gamma_mo = 1.45 | fc_default = 35.0 N/mm²
+Model: LLYN.B308.ifc
+--------------------------------------------------------------------------------
+- GlobalId: 2xflkD7IDEMgp51ZbDNKxm
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKvv
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKve
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKuR
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKum
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKuX
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKtU
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKt9
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKtw
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKth
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKsC
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKsz
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKse
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKrP
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKrq
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKrb
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKqM
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKq7
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKqm
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKqX
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKo_
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKoj
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKnO
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKn9
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKnW
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKmV
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKm8
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKmv
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKmg
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKl1
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKlm
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKld
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKk6
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKht
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKhY
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKgJ
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKgC
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKg$
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKfM
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKf3
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKfw
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKff
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKe0
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKe$
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKeg
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKdP
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKdA
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKdv
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKde
+  Storey: ES_Stue
+  Dimensions: 380 × 200 mm | A = 76000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1834.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 48.12%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKbb
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKY9
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKYw
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKXN
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKX0
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKXz
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKXi
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKWP
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKWA
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNKWb
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLVM
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLV7
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLVy
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLVf
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLU4
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLUt
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLUc
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLTT
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLTE
+  Storey: ES_Stue
+  Dimensions: 200 × 200 mm | A = 40000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 965.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 91.43%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLSH
+  Storey: ES_Stue
+  Dimensions: 760 × 200 mm | A = 152000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3669.0 kN  vs  Ned = 882.8 kN  → OK (utilization = 24.06%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLQ3
+  Storey: ES_Stue
+  Dimensions: 1090 × 200 mm | A = 218000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 5262.1 kN  vs  Ned = 882.8 kN  → OK (utilization = 16.78%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLL7
+  Storey: ES_Stue
+  Dimensions: 1090 × 200 mm | A = 218000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 5262.1 kN  vs  Ned = 882.8 kN  → OK (utilization = 16.78%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLLu
+  Storey: ES_Stue
+  Dimensions: 1090 × 200 mm | A = 218000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 5262.1 kN  vs  Ned = 882.8 kN  → OK (utilization = 16.78%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLKL
+  Storey: ES_Stue
+  Dimensions: 1090 × 200 mm | A = 218000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 5262.1 kN  vs  Ned = 882.8 kN  → OK (utilization = 16.78%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLJU
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLIb
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLHK
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLH7
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLHs
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLHX
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLGI
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLEV
+  Storey: ES_Stue
+  Dimensions: 400 × 390 mm | A = 156000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3765.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 23.44%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNLtl
+  Storey: ES_Stue
+  Dimensions: 360 × 330 mm | A = 118800 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 2867.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 30.78%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNNcC
+  Storey: ES_Stue
+  Dimensions: 250 × 240 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+- GlobalId: 2xflkD7IDEMgp51ZbDNNcp
+  Storey: ES_Stue
+  Dimensions: 250 × 250 mm | A = 62500 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1508.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 58.52%)
+
+- GlobalId: 0p4CIlpBf2Wf1Fq4YOXo4W
+  Storey: ES_Stue
+  Dimensions: 360 × 330 mm | A = 118800 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 2867.6 kN  vs  Ned = 882.8 kN  → OK (utilization = 30.78%)
+
+- GlobalId: 0p4CIlpBf2Wf1Fq4YOXo7Y
+  Storey: ES_Stue
+  Dimensions: 400 × 390 mm | A = 156000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3765.5 kN  vs  Ned = 882.8 kN  → OK (utilization = 23.44%)
+
+- GlobalId: 2sQqINw7j6D9KEPlKw6qaQ
+  Storey: ES_Stue
+  Dimensions: 360 × 200 mm | A = 72000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1737.9 kN  vs  Ned = 882.8 kN  → OK (utilization = 50.79%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi57k
+  Storey: ES_Stue
+  Dimensions: 640 × 200 mm | A = 128000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3089.7 kN  vs  Ned = 882.8 kN  → OK (utilization = 28.57%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi55i
+  Storey: ES_Stue
+  Dimensions: 640 × 200 mm | A = 128000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3089.7 kN  vs  Ned = 882.8 kN  → OK (utilization = 28.57%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi55T
+  Storey: ES_Stue
+  Dimensions: 640 × 200 mm | A = 128000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 3089.7 kN  vs  Ned = 882.8 kN  → OK (utilization = 28.57%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi54m
+  Storey: ES_Stue
+  Dimensions: 580 × 200 mm | A = 116000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 2800.0 kN  vs  Ned = 882.8 kN  → OK (utilization = 31.53%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi5BN
+  Storey: ES_Stue
+  Dimensions: 580 × 200 mm | A = 116000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 2800.0 kN  vs  Ned = 882.8 kN  → OK (utilization = 31.53%)
+
+- GlobalId: 1QZG6d8lX5WAtbEq$mi5B6
+  Storey: ES_Stue
+  Dimensions: 580 × 200 mm | A = 116000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 2800.0 kN  vs  Ned = 882.8 kN  → OK (utilization = 31.53%)
+
+- GlobalId: 2t3VtwfnH6JBZgArE91DuG
+  Storey: ES_Stue
+  Dimensions: 300 × 200 mm | A = 60000 mm²
+  Material: Concrete (DTU_Concrete_Generic_Natural_Mat) | fc used = 35.0 N/mm² (source: default)
+  Nrd = 1448.3 kN  vs  Ned = 882.8 kN  → OK (utilization = 60.95%)
+
+--------------------------------------------------------------------------------
+TOTAL: 94 checked columns | OK: 94 | Maybe insufficient: 0
+Worst utilization: 91.43%  (GlobalId 2xflkD7IDEMgp51ZbDNKbb, Nrd=965.5 kN, dim≈ 200×200 mm)
+End of report.
